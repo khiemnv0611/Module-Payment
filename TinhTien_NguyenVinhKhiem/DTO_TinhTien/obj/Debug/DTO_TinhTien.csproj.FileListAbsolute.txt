@@ -1,0 +1,12 @@
+C:\Users\ngvin\Desktop\TinhTien_NguyenVinhKhiem\DTO_TinhTien\bin\Debug\DTO_TinhTien.dll
+C:\Users\ngvin\Desktop\TinhTien_NguyenVinhKhiem\DTO_TinhTien\bin\Debug\DTO_TinhTien.pdb
+C:\Users\ngvin\Desktop\TinhTien_NguyenVinhKhiem\DTO_TinhTien\obj\Debug\DTO_TinhTien.csproj.AssemblyReference.cache
+C:\Users\ngvin\Desktop\TinhTien_NguyenVinhKhiem\DTO_TinhTien\obj\Debug\DTO_TinhTien.csproj.CoreCompileInputs.cache
+C:\Users\ngvin\Desktop\TinhTien_NguyenVinhKhiem\DTO_TinhTien\obj\Debug\DTO_TinhTien.dll
+C:\Users\ngvin\Desktop\TinhTien_NguyenVinhKhiem\DTO_TinhTien\obj\Debug\DTO_TinhTien.pdb
+C:\Users\ngvin\OneDrive\TinhTien_NguyenVinhKhiem\DTO_TinhTien\bin\Debug\DTO_TinhTien.dll
+C:\Users\ngvin\OneDrive\TinhTien_NguyenVinhKhiem\DTO_TinhTien\bin\Debug\DTO_TinhTien.pdb
+C:\Users\ngvin\OneDrive\TinhTien_NguyenVinhKhiem\DTO_TinhTien\obj\Debug\DTO_TinhTien.csproj.AssemblyReference.cache
+C:\Users\ngvin\OneDrive\TinhTien_NguyenVinhKhiem\DTO_TinhTien\obj\Debug\DTO_TinhTien.csproj.CoreCompileInputs.cache
+C:\Users\ngvin\OneDrive\TinhTien_NguyenVinhKhiem\DTO_TinhTien\obj\Debug\DTO_TinhTien.dll
+C:\Users\ngvin\OneDrive\TinhTien_NguyenVinhKhiem\DTO_TinhTien\obj\Debug\DTO_TinhTien.pdb
